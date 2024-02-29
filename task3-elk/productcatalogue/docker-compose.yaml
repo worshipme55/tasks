@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  product-catalogue:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: product-catalogue-container
+    ports:
+      - "8020:8020"
+    networks:
+      - elk
+    restart: unless-stopped
+networks:
+  elk:
+    driver: bridge

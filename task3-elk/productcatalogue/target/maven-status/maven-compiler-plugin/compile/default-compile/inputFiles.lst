@@ -1,0 +1,6 @@
+/home/saugat/Pictures/treeleaf/kubernetes/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/services/ProductService.java
+/home/saugat/Pictures/treeleaf/kubernetes/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/configuration/ProductServiceConfiguration.java
+/home/saugat/Pictures/treeleaf/kubernetes/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/model/Product.java
+/home/saugat/Pictures/treeleaf/kubernetes/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/resources/ProductResource.java
+/home/saugat/Pictures/treeleaf/kubernetes/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/healthchecks/BasicHealthCheck.java
+/home/saugat/Pictures/treeleaf/kubernetes/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/ProductServiceApplication.java
